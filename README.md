@@ -5,14 +5,16 @@ This is a simple character-level language model that can be trained on arbitrary
 This implementation uses a many-to-one approach. This means that the model is trained to predict the next character in a sequence of characters:
 
 ```
-                                                O
-                                                | 
-                              O O O O O O O O O O
-                              | | | | | | | | | |
-                              O O O O O O O O O O
+                                                                                                g
+                                                                                                O
+                                                                                                |  
+              O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+              | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+              O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+              T h e   q u i c k   b r o w n   f o x   j u m p s   o v e r   t h e   l a z y   d o
 ```
                                   
-The example above shows the case where a sequence of characters of length 10 are used to predict the 11th character in the sequence.
+The example above shows the case where a sequence of characters of length 42 (`seq_length`) is used to predict the 43th character in the sequence. All characters are one-hot encoded. In a dataset that consists only of the letters `a`, `b` and `c` the letters are represented as the vectors `[1,0,0]`, `[0,1,0]` and `[0,0,1]`.
 
 The code consists of a training and a test module. The test module can be used to create new Shakespeare plays.
 
