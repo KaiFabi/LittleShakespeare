@@ -5,11 +5,13 @@ This is a simple character-level language model that can be trained on arbitrary
 This implementation uses a many-to-one approach. This means that the model is trained to predict the next character in a sequence of characters:
 
 <center>
+  `
                                                 O
                                                 | 
                               O O O O O O O O O O
                               | | | | | | | | | |
                               O O O O O O O O O O
+  `
 </center>
                                   
 The example above shows the case where a sequence of characters of length 10 are used to predict the 11th character in the sequence.
