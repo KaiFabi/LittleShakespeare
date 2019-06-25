@@ -1,6 +1,8 @@
 # LittleShakespeare
 
-This is a simple character-level language model that uses a Recurrent Neural Network that is implemented in Python with Tensorflow.
+This is a simple character-level language model that can be trained on arbitrary texts. Here, works by Shakespeare are used. The model consists of a Recurrent Neural Network that is implemented in Python with Tensorflow.
+
+This implementation uses a many-to-one approach. This means that the model is trained to predict the next character in a sequence of characters.
 
 Different RNN cells such as Basic-, GRU- or LSTM-Cells can be used and compared with each other. The implementation is very flexible and both depth and width can be freely chosen.
 
