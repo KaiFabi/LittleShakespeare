@@ -68,4 +68,90 @@ In this example, the GRU network performed slightly better compared to the LSTM 
 
 # Text generation
 
-Here are some examples of texts that the trained network produced:
+Here is an example text with 3000 characters that the trained network produced:
+
+```
+he breath I with my self alter thee she made.
+
+
+                     13
+  Why should I comfort see the worth's stard
+  The love, than receivers that which thou willled,
+  And they shall steepent of than thy self:
+     But die rexill thee,
+  The illed I do wit with are spor still,
+  To seem than thou wilt so prown thee say seeen.
+
+
+                     147
+  For they with love in your self thy fair thee,
+  And true, wherein hath my love should in thee,
+    To shall have though my love still of befriel,
+    The love, and then my self I lovers'  
+  Then did my love still with the heart,
+  That thou art of this will be deligel,
+  Nor that which in thy self I dracfors,
+  Then receive thee my love to thee to thee 
+      Yeur,  
+  There agn exall the world with all to be.
+
+
+                     114
+  That thou art of that where thou art unuse,
+  And the withonelen with all my self still,
+    Wherein hate soul, nor me with my sind,
+  And straight the will or sick me was I bake.
+    But thou art of thy self I look no bid,
+  As his sweath, but heaven to show thou sheather shorn
+    But from the world me that forbs of his green wit.
+
+
+                     103
+  Alt yetence strong the worttes a beared,
+  Then in the stars of many, not be so slowers,
+    And thence that I am not the world's fair,
+    To commil that thou dost recoulthly shad
+  The wastes beauty is a besad,
+  That do not so sun no not they dear,
+  The leares or all thy self a wild do fortumeat:
+  So ere then with me, thy worth the world must show,
+    The love, and thou with our love to thee.
+    But from your part, though thy shade lose strange.
+
+
+                     14 
+  Whend I aution mad'sthing sorn,
+  And then liker thee dearier of my love stand,
+  And look anen the have sounds of thee conseets:
+    If so, beauteous and shall stand the sun.
+
+                     'e,  
+  Lett still surming not the world-lie friend.
+  Now in the breath I am a true my self,
+  And love in it seeming of your day,
+  The ractly days are so short,
+  Comounded their sweet lose selfoun thou decease,
+  So that for thee, not forguhard and see dead,
+  And they seen with the hearth my love to thee.
+    To commil the light, which thou wilt still.
+
+
+                      113
+  So my love should in thee I sorn with make,
+  And the beauty of thy self a doty new,
+  The subseres nothing all thy strong died,
+  And beauty shall love to the world's,
+  That they most of sicher face so short,
+  When I no nor beauty still with thee, and cure,
+  That you of your parts of the world's nothing sweet
+  To make such in my love's broods a dead,
+  And to the love, and then my self uprew?
+  The elst thou wilt is but a pained part,
+  And the beauty shall beauty stores be,
+  For thou art so slay the world in store,
+  And present of this will be thine eyes be.
+  No it the stars that with my self I'll deeds,
+  Will in their ranking the store, or breathesh.
+    These branmoned with most in the world will,
+  And beauty's fue lose breather
+```
