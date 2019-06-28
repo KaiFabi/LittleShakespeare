@@ -42,7 +42,7 @@ The results below show the training and evaluation loss and accuracy for a GRU (
 
 ## Training
 
-<div align="center">
+<div style="width:image width px; font-size:80%; text-align:center;">
 <img src="https://github.com/KaiFabi/LittleShakespeare/blob/master/results/training_loss.svg" width="700">
 <img src="https://github.com/KaiFabi/LittleShakespeare/blob/master/results/training_accuracy.svg" width="700">
 </div>
