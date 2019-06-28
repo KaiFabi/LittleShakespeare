@@ -53,3 +53,5 @@ The results below show the training and evaluation loss and accuracy for a GRU (
 <img src="https://github.com/KaiFabi/LittleShakespeare/blob/master/results/eval_loss.svg" width="700">
 <img src="https://github.com/KaiFabi/LittleShakespeare/blob/master/results/eval_accuracy.svg" width="700">
 </div>
+
+In this example, the GRU network performed slightly better compared to the LSTM network. However, both networks tend to overfit. This may be due to the fact that only a small part of Shakespeare's works was used for training (no GPU available). The over-fitting problem could be reduced with more data, for example.
