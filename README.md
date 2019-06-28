@@ -40,6 +40,14 @@ The line `num_units = [64, 64]` defines the network's architecture. The number o
 
 The results below show the training and evaluation loss and accuracy for a GRU (orange) and a LSTM (blue) network.
 
-**Training**
+## Training
 
-**Evaluation**
+<div align="center">
+<img src="https://github.com/KaiFabi/LittleShakespeare/blob/master/results/eval_loss.svg" width="320">
+<img src="https://github.com/KaiFabi/LittleShakespeare/blob/master/results/eval_accuracy.svg" width="320">
+  
+<img src="https://github.com/KaiFabi/LittleShakespeare/blob/master/results/training_loss.svg" width="320">
+<img src="https://github.com/KaiFabi/LittleShakespeare/blob/master/results/training_accuracy.svg" width="320">
+</div>
+
+## Evaluation
