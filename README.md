@@ -36,4 +36,8 @@ num_classes = char_size # one-hot encoded charakter
 
 The line `num_units = [64, 64]` defines the network's architecture. The number of elements in this list defines the networks depth or how many RNN-cells are to be connected in series. The numbers itself define the cell's hidden layer size.
 
-Here are some results:
+The results below show the training and evaluation loss and accuracy for a GRU (orange) and a LSTM (blue) network.
+
+**Training**
+
+**Evaluation**
