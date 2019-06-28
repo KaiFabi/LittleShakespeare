@@ -65,3 +65,7 @@ The results below show the training and evaluation loss and accuracy for a GRU (
 </div>
 
 In this example, the GRU network performed slightly better compared to the LSTM network. However, both networks tend to overfit. This may be due to the fact that only a small part of Shakespeare's works was used for training (no GPU available). The over-fitting problem could be reduced with more data, for example.
+
+# Text generation
+
+Here are some examples of texts that the trained network produced:
